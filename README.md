@@ -11,18 +11,11 @@
 
 ## Other Projects 📦
 - [**Discord DM Ads Detector**](https://github.com/kavascriptos/discord-dm-ads-detect) : a selfbot for detecting who sends ads to your Discord server's members.
-- [**persian-bad-words**](https://github.com/kavascriptos/persian-bad-words) : A npm package for detecting persian swear words in strings.
-- **Screeny** : A Discord.js bot for simulating discord chat screenshot _(Discontinued)_.
-
-- **Minoo** : A simple chatbot, often talks irrevelant 😂 (Currently Private)
-  
-- **Dorna Messenger** : A messenger back-end improved over time, but lacks some major security items. (Currently Private)
-  
-- **BananaLAC** : Collection of tools for LAC _(Discontinued)_.
+- [**persian-bad-words**](https://github.com/kavascriptos/persian-bad-words) : A npm package for detecting persian swear words in strings. (I will rewrite this one)
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,nodejs,discordjs,html,css)](https://skillicons.dev)
-## Programs
+## Programs & OSes
 [![My Programs](https://skillicons.dev/icons?i=windows,debian,vscode,blender,autocad)](https://skillicons.dev)
 
 
