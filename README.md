@@ -17,7 +17,7 @@ Feel free too connect or reach for collaboration!
 
 📞 You can contact me using [Telegram](https://t.me/kkouvali) or send an [Email](mailto:kavehkouvali@gmail.com) .
 
-  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,express,discordjs,git,autocad,dotnet,catia&perline=5)](https://skillicons.dev)
 
 
 
