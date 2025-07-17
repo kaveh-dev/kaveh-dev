@@ -1,22 +1,23 @@
-## Hi there! 👋
-- I'm **Kaveh** 👋
-- From **Iran** 🇮🇷 , Tabriz!
-- Currently i'm **18** years old. 🤵
-- **Production engineering** student at **Tabriz University**
+## 📌👋 About Me
 
+Hi! I'm Kaveh, a 19-year-old developer from Tabriz,Iran.
+I'm passionate about tech,enthusiastic about learning, and love building useful (and sometimes useless XD) stuff for both communities and users.
 
-## Main Projects 📃
-- No main projects for now.
-- Currently I'm studying **Solidworks** for my university lessons.
-- Learning how to use **VB.NET**
+## ✏️🛠️ Technical Skills
+- **Javascript**: Experienced in both frontend and backend (mostly backend) (Node.js, Express)
+- **Visual Basic**: Desktop development & creating AutoCAD Plugins
+- **Discord Bots**: Built and managed a verified fast meme-image generation bot using Discord.js
+- **Web Development**: Created several websites for the *Los Angeles Crimes* gaming community.
+- **Currently Learning**: Python and C++
+- **Back-end APIs**: Building webservices and APIs with Express.js
 
-## Other Projects 📦
-- [**Discord DM Ads Detector**](https://github.com/kavascriptos/discord-dm-ads-detect) : a selfbot for detecting who sends ads to your Discord server's members.
-- [**persian-bad-words**](https://github.com/kavascriptos/persian-bad-words) : A npm package for detecting persian swear words in strings. (I will rewrite this one)
+## ✏️🚀 Contacting Me
+Always learning, always up for a new challenge and projects.
+Feel free too connect or reach for collaboration!
 
-## Coding Languages
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,discordjs,dotnet)](https://skillicons.dev)
-## My Programs
-[![My Programs](https://skillicons.dev/icons?i=vscode,visualstudio,autocad)](https://skillicons.dev)
+📞 You can contact me using [Telegram](https://t.me/kkouvali) or send an [Email](mailto:kavehkouvali@gmail.com) .
+
+  
+
 
 
